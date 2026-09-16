@@ -1,0 +1,8 @@
+==> gpx1.fasta <==
+>NC_000003.12:c49358353-49357176 Homo sapiens chromosome 3, GRCh38.p14 Primary Assembly
+
+==> gpx1.gb <==
+LOCUS       NC_000003               1178 bp    DNA     linear   CON 06-AUG-2025
+
+==> protein.fasta <==
+>NP_000572.2 glutathione peroxidase 1 isoform 1 [Homo sapiens]

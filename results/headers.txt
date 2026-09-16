@@ -1,8 +1,0 @@
-==> myproj1.fasta <==
->NM_001362846.2 Homo sapiens myoglobin (MB), transcript variant 4, mRNA
-
-==> proteinofmb.fasta <==
->NP_001349775.1 myoglobin isoform 1 [Homo sapiens]
-
-==> sequence.gb <==
-LOCUS       NM_001362846            1058 bp    mRNA    linear   PRI 27-APR-2025
