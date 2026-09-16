@@ -1,0 +1,4 @@
+Gene	Accession	Category	CDS_length	Translated_length	Deposited_length	Identical	First_mismatch_position
+MB	NM_001362846	Nuclear control	465	154	154	Y	NA
+COX1	NC_012920.1	Mitochondrial	1542	513	513	Y	NA
+GPX1	NM_000581.4	Selenoprotein	612	48	203	N	49
